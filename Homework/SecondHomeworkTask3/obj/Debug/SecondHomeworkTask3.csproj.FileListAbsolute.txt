@@ -1,0 +1,6 @@
+C:\Users\Ярослав\Desktop\Homework\SecondHomeworkTask31\bin\Debug\SecondHomeworkTask31.dll
+C:\Users\Ярослав\Desktop\Homework\SecondHomeworkTask31\bin\Debug\SecondHomeworkTask31.pdb
+C:\Users\Ярослав\Desktop\Homework\SecondHomeworkTask31\obj\Debug\SecondHomeworkTask3.csprojAssemblyReference.cache
+C:\Users\Ярослав\Desktop\Homework\SecondHomeworkTask31\obj\Debug\SecondHomeworkTask3.csproj.CoreCompileInputs.cache
+C:\Users\Ярослав\Desktop\Homework\SecondHomeworkTask31\obj\Debug\SecondHomeworkTask31.dll
+C:\Users\Ярослав\Desktop\Homework\SecondHomeworkTask31\obj\Debug\SecondHomeworkTask31.pdb
