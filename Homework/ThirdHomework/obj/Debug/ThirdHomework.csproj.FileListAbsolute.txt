@@ -1,5 +1,0 @@
-C:\Users\Ярослав\Desktop\hometask3\ThirdHomework\bin\Debug\ThirdHomework.dll
-C:\Users\Ярослав\Desktop\hometask3\ThirdHomework\bin\Debug\ThirdHomework.pdb
-C:\Users\Ярослав\Desktop\hometask3\ThirdHomework\obj\Debug\ThirdHomework.csproj.CoreCompileInputs.cache
-C:\Users\Ярослав\Desktop\hometask3\ThirdHomework\obj\Debug\ThirdHomework.dll
-C:\Users\Ярослав\Desktop\hometask3\ThirdHomework\obj\Debug\ThirdHomework.pdb
